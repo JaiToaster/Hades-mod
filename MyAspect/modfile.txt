@@ -1,0 +1,8 @@
+Top Import "config.lua"
+Import "main.lua"
+
+To "Scripts/TraitData.lua"
+Import "Data/TraitData.lua"
+
+To "Scripts/WeaponUpgradeData.lua"
+Import "Data/WeaponUpgradeData.lua"
